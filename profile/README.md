@@ -1,7 +1,7 @@
 [![BNetWork](https://www.blache-nolwenn.fr/public/image/logo/blache/logo-full.webp)](https://www.blache-nolwenn.fr)
 
 
-Bienvenue sur le dépôt GitHub de **BNetWork**, auto-entrepreneur spécialisé dans le développement web full stack PHP.
+Bienvenue sur le dépôt GitHub de **BeyondNexusTech**, auto-entrepreneur spécialisé dans le développement web full stack PHP.
 Avec une expertise avérée dans la création de solutions web sur mesure, j'accompagne les entreprises dans la transformation de leurs idées en projets digitaux performants.
 
 <br>
