@@ -1,4 +1,4 @@
-[![BNetWork](https://www.blache-nolwenn.fr/public/image/logo/blache/logo-full.webp)](https://www.blache-nolwenn.fr)
+[![BNetWork](https://www.blache-nolwenn.fr/public/image/logo/blache/logo-full.webp)](https://www.beyondnexus.fr)
 
 
 Bienvenue sur le dépôt GitHub de **BeyondNexusTech**, auto-entrepreneur spécialisé dans le développement web full stack PHP.
@@ -32,7 +32,7 @@ Ma mission est de fournir des solutions web de haute qualité qui aident les ent
 ### Site vitrine
 - **Description** : Un site vitrine de l'entreprise performant.
 - **Technologies** : PHP, JavaScript, MySQL.
-- **Lien** : [Voir le projet](https://www.blache-nolwenn.fr)
+- **Lien** : [Voir le projet](https://www.beyondnexus.fr)
 
 ### Site CV intéractif
 - **Description** : Un site pour proposer mon CV intéractif en ligne.
