@@ -48,20 +48,20 @@ Ma mission est de fournir des solutions web de haute qualité qui aident les ent
 - <h4>
     <a href="https://www.proximojardin.beyondnexus.fr">🌿 ProximoJardin</a>
 </h4>
+<sub><sup>Site vitrine pour un jardinier local acceptant le CESU</sup></sub>
+<br>
 <a href="https://www.proximojardin.beyondnexus.fr">
     <img src="static/view-crossplatform-proximojardin.png" alt="ProximoJardin preview" width="250">
 </a>
-<br>
-<sub><sup>Site vitrine pour un jardinier local acceptant le CESU</sup></sub>
 
 - <h4>
     <a href="https://www.vkd.beyondnexus.fr">🛍️ VKD Boutique</a>
 </h4>
+<sub><sup>Site vitrine pour une boutique ambulante sur marché</sup></sub>
+<br>
 <a href="https://www.vkd.beyondnexus.fr">
     <img src="static/view-crossplatform-vkd.png" alt="VKD Boutique preview" width="250">
 </a>
-<br>
-<sub><sup>Site vitrine pour une boutique ambulante sur marché</sup></sub>
 
 <br>
 
@@ -70,11 +70,11 @@ Ma mission est de fournir des solutions web de haute qualité qui aident les ent
 - <h4>
     <a href="https://www.aniwell-travel.fr">🌍 Aniwell Travel</a>
 </h4>
+<sub><sup>Cours en ligne & réservations d’activités éthiques<br>🎓 Intégration WordPress multisite avec TutorLMS, Amelia & WooCommerce.</sup></sub>
+<br>
 <a href="https://www.aniwell-travel.fr">
     <img src="static/view-crossplatform-aniwell-travel.png" alt="AniwellTravel preview" width="250">
 </a>
-<br>
-<sub><sup>Cours en ligne & réservations d’activités éthiques<br>🎓 Intégration WordPress multisite avec TutorLMS, Amelia & WooCommerce.</sup></sub>
 
 <br>
 
@@ -83,22 +83,22 @@ Ma mission est de fournir des solutions web de haute qualité qui aident les ent
 - <h4>
     <a href="https://www.demo.data-manager.blache-nolwenn.fr">📁 DataManager</a>
 </h4>
+<sub><sup>Gestion de flottes, employés, factures & CA</sup></sub>
+<br>
 <a href="https://www.demo.data-manager.blache-nolwenn.fr">
     <img src="static/view-crossplatform-data-manager.png" alt="DataManager preview" width="250">
 </a>
-<br>
-<sub><sup>Gestion de flottes, employés, factures & CA</sup></sub>
 
 <br>
 
 - <h4>
     <a href="https://www.demo.phone-book.blache-nolwenn.fr">☎️ PhoneBook</a>
 </h4>
+<sub><sup>Annuaire interactif CRUD + recherche dynamique</sup></sub>
+<br>
 <a href="https://www.demo.phone-book.blache-nolwenn.fr">
     <img src="static/view-crossplatform-phone-book.png" alt="PhoneBook preview" width="250">
 </a>
-<br>
-<sub><sup>Annuaire interactif CRUD + recherche dynamique</sup></sub>
 
 <br>
 
@@ -107,33 +107,33 @@ Ma mission est de fournir des solutions web de haute qualité qui aident les ent
 - <h4>
     <a href="https://www.energy.beyondnexus.fr">⚡ BeyondNexusTech Energy</a>
 </h4>
+<sub><sup>Site de présentation pour activités électriques (EI)</sup></sub>
+<br>
 <a href="https://www.energy.beyondnexus.fr">
     <img src="static/view-crossplatform-energy.png" alt="BeyondNexusTechEnergy preview" width="250">
 </a>
-<br>
-<sub><sup>Site de présentation pour activités électriques (EI)</sup></sub>
 
 <br>
 
 - <h4>
     <a href="https://www.cb.blache-nolwenn.fr">🔧 Curriculum Vitae</a>
 </h4>
+<sub><sup>CV interactif 100% custom PHP</sup></sub>
+<br>
 <a href="https://www.cv.blache-nolwenn.fr">
     <img src="static/view-crossplatform-cv.png" alt="CV preview" width="250">
 </a>
-<br>
-<sub><sup>CV interactif 100% custom PHP</sup></sub>
 
 <br>
 
 - <h4>
     <a href="https://www.neshkel.fr">🎮 Neshkel</a>
 </h4>
+<sub><sup>Widget Twitch + outils pour streamers & joueurs</sup></sub>
+<br>
 <a href="https://www.neshkel.fr">
     <img src="static/view-crossplatform-neshkel.png" alt="Neshkel preview" width="250">
 </a>
-<br>
-<sub><sup>Widget Twitch + outils pour streamers & joueurs</sup></sub>
 
 <br>
 
