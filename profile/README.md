@@ -1,38 +1,68 @@
-[![BNetWork](https://www.blache-nolwenn.fr/public/image/logo/blache/logo-full.webp)](https://www.beyondnexus.fr)
+<p align="center">
+    <a href="https://www.beyondnexus.fr">
+        <img src="static/banner_beyondnexus_2025.jpg" alt="BeyondNexusTech Banner" width="600">
+    </a>
+</p>
 
+<h1 align="center">BeyondNexusTech</h1>
+
+<p align="center">
+    Développement Web Full Stack – PHP, Symfony, MySQL<br>
+    <strong>Innovation, performance et accompagnement personnalisé</strong>
+</p>
 
 Bienvenue sur le dépôt GitHub de **BeyondNexusTech**, auto-entrepreneur spécialisé dans le développement web full stack PHP.
 Avec une expertise avérée dans la création de solutions web sur mesure, j'accompagne les entreprises dans la transformation de leurs idées en projets digitaux performants.
 
-<br>
+---
 
 ## 🎯 Mission et Valeurs
 
-Ma mission est de fournir des solutions web de haute qualité qui aident les entreprises à réussir dans le monde numérique. Je m'engage à transformer les idées de mes clients en projets concrets et performants, tout en garantissant leur satisfaction à chaque étape.
+Ma mission est de fournir des solutions web de haute qualité qui aident les entreprises à réussir dans le monde numérique. Je transforme vos idées en projets concrets et performants, en mettant l'accent sur la transparence, l'engagement et l'innovation.
 
-- **Excellence** : S'efforcer d'atteindre les plus hauts standards de qualité dans tous les projets.
-- **Innovation** : Appliquer des solutions créatives et modernes pour résoudre les défis techniques.
-- **Transparence** : Maintenir une communication claire et honnête avec les clients.
-- **Engagement** : Travailler avec dévouement et passion pour assurer le succès des projets de mes clients.
+- **Excellence** : S'efforcer d'atteindre les plus hauts standards de qualité.
+- **Innovation** : Appliquer des solutions créatives et modernes.
+- **Transparence** : Communication claire à chaque étape.
+- **Engagement** : Dévouement et passion au service de vos projets.
 
-<br>
+---
 
-## 🛠️ Compétences et Services
+## 🛠️ Compétences
 
-- **Développement Front-End** : Expertise en HTML, CSS, JavaScript pour des interfaces utilisateur modernes et réactives.
-- **Développement Back-End** : Maîtrise de PHP et Symfony pour des applications robustes et évolutives.
-- **Gestion des Bases de Données** : Proficient en MySQL et PostgreSQL pour une gestion efficace des données.
-- **API & Intégrations** : Conception et intégration d'API pour des solutions interconnectées.
-- **Optimisation des Performances** : Amélioration de la vitesse, de la sécurité et de la fiabilité des sites web.
+- Développement **front-end** (HTML, CSS, JavaScript, Tailwind)
+- Développement **back-end** (PHP, Symfony, API REST)
+- Gestion de bases de données **MySQL** / **PostgreSQL**
+- Optimisation de performance, sécurité et SEO
+- Intégration d’APIs externes (Twitch, Spotify, Discord, etc.)
+- Automatisation, cronjobs, dashboard, interfaces de gestion
+- Hébergement auto-géré (Ubuntu Server, Docker, Nginx)
 
-<br>
+---
 
-## 🌟 **Projets en Vedette**
+## 🚀 **Projets & Réalisation**
 
-### Site vitrine
-- **Description** : Un site vitrine de l'entreprise performant.
-- **Technologies** : PHP, JavaScript, MySQL.
-- **Lien** : [Voir le projet](https://www.beyondnexus.fr)
+### 🧑‍💼 Sites professionnels
+
+- 🌿 [**proximojardin.beyondnexus.fr**](https://proximojardin.beyondnexus.fr) – Site vitrine pour un jardinier local acceptant le CESU
+<p align="left">
+    <a href="https://www.proximojardin.beyondnexus.fr">
+        <img src="static/view-crossplatform-proximojardin.png" alt="ProximoJardin preview" width="600">
+    </a>
+</p>
+- ⚡ [**energy.beyondnexus.fr**](https://energy.beyondnexus.fr) – Site de présentation pour activités électriques (EI)
+<p align="left">
+    <a href="https://www.energy.beyondnexus.fr">
+        <img src="static/view-crossplatform-energy.png" alt="Energy preview" width="600">
+    </a>
+</p>
+- 🛍️ [**vkd.beyondnexus.fr**](https://vkd.beyondnexus.fr) – Site vitrine pour une boutique ambulante sur marché.
+<p align="left">
+    <a href="https://www.vkd.beyondnexus.fr">
+        <img src="static/view-crossplatform-vkd.png" alt="ProximoJardin preview" width="600">
+    </a>
+</p>
+
+---
 
 ### Site CV intéractif
 - **Description** : Un site pour proposer mon CV intéractif en ligne.
