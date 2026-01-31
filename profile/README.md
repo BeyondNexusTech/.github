@@ -46,20 +46,20 @@ Ma mission est de fournir des solutions web de haute qualité qui aident les ent
 ### 🧑‍💼 Sites professionnels
 
 - <h4>
-    <a href="https://www.proximojardin.beyondnexus.fr">🌿 ProximoJardin</a>
+    <a href="https://proximojardin.beyondnexus.fr">🌿 ProximoJardin</a>
 </h4>
 <sub><sup>Site vitrine pour un jardinier local acceptant le CESU</sup></sub>
 <br>
-<a href="https://www.proximojardin.beyondnexus.fr">
+<a href="https://proximojardin.beyondnexus.fr">
     <img src="static/view-crossplatform-proximojardin.png" alt="ProximoJardin preview" width="250">
 </a>
 
 - <h4>
-    <a href="https://www.vkd.beyondnexus.fr">🛍️ VKD Boutique</a>
+    <a href="https://vkd.beyondnexus.fr">🛍️ VKD Boutique</a>
 </h4>
 <sub><sup>Site vitrine pour une boutique ambulante sur marché</sup></sub>
 <br>
-<a href="https://www.vkd.beyondnexus.fr">
+<a href="https://vkd.beyondnexus.fr">
     <img src="static/view-crossplatform-vkd.png" alt="VKD Boutique preview" width="250">
 </a>
 
@@ -105,11 +105,11 @@ Ma mission est de fournir des solutions web de haute qualité qui aident les ent
 ### 🖥️ Projets personnels & techniques
 
 - <h4>
-    <a href="https://www.energy.beyondnexus.fr">⚡ BeyondNexusTech Energy</a>
+    <a href="https://energy.beyondnexus.fr">⚡ BeyondNexusTech Energy</a>
 </h4>
 <sub><sup>Site de présentation pour activités électriques (EI)</sup></sub>
 <br>
-<a href="https://www.energy.beyondnexus.fr">
+<a href="https://energy.beyondnexus.fr">
     <img src="static/view-crossplatform-energy.png" alt="BeyondNexusTechEnergy preview" width="250">
 </a>
 
