@@ -29,9 +29,9 @@
 ### 📦 Applications Web & Saas (Performance Focus)
 | Projet | Description | Stack |
 | :--- | :--- | :--- |
-| **[DataManager](https://www.demo.data-manager.blache-nolwenn.fr)** | Gestion de flottes, employés et facturation automatisée. | `Symfony` `Next.js` `MariaDB` |
+| **[DataManager](https://www.demo.data-manager.blache-nolwenn.fr)** | Gestion de flottes, employés et facturation automatisée. | `PHP` `MariaDB` |
 | **NextGen R2 Storage** | Solution de stockage et distribution d'assets optimisée. | `Next.js` `Cloudflare R2` `Redis` |
-| **[Neshkel](https://www.neshkel.fr)** | Écosystème de widgets et outils API pour streamers. | `PHP` `API Twitch/Discord` |
+| **[Neshkel.TV](https://temp.neshkel.fr)** | Écosystème de widgets et outils API pour streamers. | `PHP` `API Twitch/Discord` |
 
 ### 🏢 Solutions Professionnelles & Vitrines
 * **[Aniwell Travel](https://www.aniwell-travel.fr)** : Plateforme pédagogique multisite (WordPress, TutorLMS, WooCommerce).
